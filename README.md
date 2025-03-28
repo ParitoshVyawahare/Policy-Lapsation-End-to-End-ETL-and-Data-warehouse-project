@@ -1,4 +1,5 @@
 # 🏦 Data Warehousing and ETL for Policy Lapsation in Life Insurance  
+![image](https://github.com/user-attachments/assets/781ab2a5-6ce6-4bb2-aed1-8a9c66b87b4e)
 
 ## 📖 Project Overview  
 Policy lapsation is a major challenge in the **life insurance industry**, occurring when policyholders fail to pay premiums, leading to policy termination. This negatively impacts both **customers** (who lose financial security) and **insurance providers** (who face revenue loss and increased reacquisition costs).  
