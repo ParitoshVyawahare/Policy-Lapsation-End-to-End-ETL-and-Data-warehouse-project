@@ -1,5 +1,5 @@
 # 🏦 Data Warehousing and ETL for Policy Lapsation in Life Insurance  
-![image](https://github.com/user-attachments/assets/44601a65-e803-49ab-b021-adfe33c4e3b3)
+![image](https://github.com/user-attachments/assets/7020ec33-2fde-4d95-a4d2-ccccded83b73)
 
 
 ## 📖 Project Overview  
