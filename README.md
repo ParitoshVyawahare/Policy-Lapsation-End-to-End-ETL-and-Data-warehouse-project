@@ -2,7 +2,7 @@
 ![image](https://github.com/user-attachments/assets/7020ec33-2fde-4d95-a4d2-ccccded83b73)
 
 
-## 📖 Project Overview  
+## 📖 Project Overview
 Policy lapsation is a major challenge in the **life insurance industry**, occurring when policyholders fail to pay premiums, leading to policy termination. This negatively impacts both **customers** (who lose financial security) and **insurance providers** (who face revenue loss and increased reacquisition costs).  
 
 A key issue is **data fragmentation** across multiple sources such as **web sales, agents, and banking partners**, making it difficult to **detect at-risk customers early** and take corrective action. This project aims to create a **centralized data warehousing solution** to unify and analyze data, enabling **better decision-making and retention strategies**.  
@@ -33,10 +33,10 @@ This project focuses on **building an ETL pipeline** that integrates **multi-sou
 
 ---
 
-## 🔍 Expected Outcomes  
+## 🔍 Expected Outcomes 
 🔹 **Fully functional ETL pipeline** integrating diverse data sources.  
 🔹 **Well-structured data warehouse** for accurate and fast reporting.  
-🔹 **Interactive dashboards** to visualize policy lapsation trends.  
+🔹 **Interactive dashboards** to visualise policy lapsation trends.  
 🔹 **Predictive analytics** to identify at-risk customers and improve retention strategies.  
 
 ---
